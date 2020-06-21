@@ -1,0 +1,140 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+
+  margin: 0;
+  text-align: center;
+
+}
+
+.bu{
+  background-color:#66BFBF;
+  border-radius: 20px;
+  padding:5px 15px 5px 15px;
+  border-style: none;
+  margin-top: 50px;
+}
+
+.profile{
+  color:#40514E;
+  width:50%;
+  margin:80px auto 80px auto;
+}
+
+.butt{
+  color:white;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.chef{
+  width:25%;
+}
+
+hr{
+  color:#EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:6px;
+width:50px;
+}
+
+
+.Top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.Middle-container {
+
+}
+
+.Bottom-container {
+  padding: 45px;
+  background-color: #66BFBF;
+}
+
+
+
+.b-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+}
+.t-cloud{
+ position: absolute;
+ right:300px;
+ top:50px;
+}
+
+.dream{
+  color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+
+}
+
+.skill-row{
+  margin:100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.l{
+  position: relative;
+  top:4px;
+}
+
+.code-image{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.chillie-image{
+  float: right;
+  width: 25%;
+
+}
+
+.contact-me{
+  width:50%;
+  margin:100px auto 100px auto;
+}
+
+.An{
+  color:white;
+  font-size: 15px;
+  margin:30px auto 5px auto;
+}
+
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  margin:20px 10px 15px 10px;
+}
+
+h1 {
+  color: #66BFBF;
+  margin:40px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+
+
+
+}
+h3{
+ color: #11999E;
+ margin-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+
+}
